@@ -1,0 +1,9 @@
+Note about html
+
+* even the title can contain the 
+images but for this we cannot use 
+jpeg image it must be an icon or 
+png image
+
+
+font awesome 

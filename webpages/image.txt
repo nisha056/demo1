@@ -1,0 +1,10 @@
+hardcoding 
+giving actual size to the images
+
+
+syntax for image
+
+<figure>
+<img src ="imgs.jpg>
+<fig caption>    </fig caption>
+</figure>
